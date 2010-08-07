@@ -6,7 +6,9 @@ inc/Module/Install/Fetch.pm
 inc/Module/Install/Makefile.pm
 inc/Module/Install/Metadata.pm
 inc/Module/Install/PadrePlugin.pm
+inc/Module/Install/PerlTar.pm
 inc/Module/Install/Win32.pm
+inc/Module/Install/With.pm
 inc/Module/Install/WriteAll.pm
 lib/Padre/Document/PHP.pm
 lib/Padre/Plugin/PHP.pm
